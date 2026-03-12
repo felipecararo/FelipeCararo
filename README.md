@@ -103,6 +103,7 @@ Passionate about technology and constantly evolving. I specialize in building sc
 
 ## 🎓 Certifications & Education
 
+- 🎓 **MBA em Engenharia de Software com AI** — Full Cycle *(2026)*
 - 🎓 **MBA em Liderança Técnica** — Full Cycle *(2025)*
 - 📋 **Event Storming na Prática** — Full Cycle *(2023)*
 - 🔷 **SOLID Express** — Full Cycle *(2022)*
