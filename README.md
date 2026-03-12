@@ -27,7 +27,7 @@ const felipe = {
   location:   "Santa Catarina, Brazil 🇧🇷",
   experience: "10+ years in software development",
   focus:      ["Artificial Intelligence", "Cloud Architecture", "Technical Leadership"],
-  education:  "MBA em Liderança Técnica — Full Cycle",
+  education:  ["MBA em Engenharia de Software com AI — Full Cycle", "MBA em Liderança Técnica — Full Cycle"],
   status:     "Working from home 🏠",
 };
 ```
